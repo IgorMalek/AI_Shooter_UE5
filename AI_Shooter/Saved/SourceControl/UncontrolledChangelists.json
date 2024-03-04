@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/igorm/Downloads/AI_Shooter-20240301T162322Z-001/AI_Shooter/Content/Maps/Testbed.umap",
+				"C:/Users/igorm/Downloads/AI_Shooter-20240301T162322Z-001/AI_Shooter/Content/AI/Guard_BT.uasset",
+				"C:/Users/igorm/Downloads/AI_Shooter-20240301T162322Z-001/AI_Shooter/Content/AI/BTT_SetAimingMode.uasset",
+				"C:/Users/igorm/Downloads/AI_Shooter-20240301T162322Z-001/AI_Shooter/Content/Blueprints/Weapons/WeaponBase.uasset",
+				"C:/Users/igorm/Downloads/AI_Shooter-20240301T162322Z-001/AI_Shooter/Content/Blueprints/NPC/Guard_Char.uasset"
+			]
+		}
+	]
+}
